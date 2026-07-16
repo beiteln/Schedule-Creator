@@ -1,0 +1,92 @@
+Testing Area Schedule - September 6 to October 3, 2026
+
+EMPLOYEE ROSTER
+Name,Status,Dept B,Dept C,Dept H,Dept H2,Dept CB,Dept C/H2,Dept HC,Shift Preference,Notes
+Stacey P,Full-Time,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Day Shift,Primary Lead Tech - All Departments
+Marcus T,Full-Time,Yes,No,Yes,Yes,No,Yes,No,Day Shift,Power & Environmental
+Jennifer L,Full-Time,Yes,Yes,No,No,Yes,No,No,Day Shift,Functional & Controls
+David R,Part-Time,No,Yes,Yes,No,Yes,Yes,No,Day Shift,Weekends - Environmental Focus
+Sarah M,Full-Time,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Afternoon,Cross-trained
+Tom B,Part-Time,Yes,No,Yes,Yes,No,No,Yes,Day Shift,Wed-Fri Only
+
+SHIFT SCHEDULE
+Shift,Start Time,End Time,Description
+Day Shift,6:00 AM,2:00 PM,Primary Shift
+Afternoon Shift,2:00 PM,10:00 PM,Secondary Shift
+Night Shift,10:00 PM,6:00 AM,Coverage as needed
+
+BENCH/DEPARTMENT ASSIGNMENTS
+Department,Code,Description,Daily Requirement
+Bench B,B,Power Testing,1-2 Techs
+Bench C,C,Functional Testing,1-2 Techs
+Bench H,H,Environmental Testing,1 Tech
+Bench H2,H2,Environmental Advanced,1 Tech
+Bench CB,CB,Controls & Power,1 Tech
+Bench C/H2,C/H2,Functional/Environmental,1 Tech
+Bench HC,HC,Hybrid Control,1 Tech
+
+WEEKLY SCHEDULE - Week of September 6-12, 2026
+Date,Day,Dept B,Dept C,Dept H,Dept H2,Dept CB,Dept C/H2,Dept HC,Notes
+9/6/2026,Friday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Marcus T,Jennifer L,Full Coverage
+9/7/2026,Saturday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/8/2026,Sunday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/9/2026,Monday,Stacey P,Jennifer L,Marcus T,Sarah M,Stacey P,Jennifer L,Marcus T,Full Week Begins
+9/10/2026,Tuesday,Marcus T,Stacey P,Jennifer L,Sarah M,Marcus T,Stacey P,Jennifer L,Rotation
+9/11/2026,Wednesday,Jennifer L,Marcus T,Stacey P,Sarah M,Jennifer L,Marcus T,Tom B,Tom B Returns
+9/12/2026,Thursday,Stacey P,Jennifer L,Marcus T,Sarah M,Stacey P,Jennifer L,Marcus T,Week Completion
+
+WEEKLY SCHEDULE - Week of September 13-19, 2026
+Date,Day,Dept B,Dept C,Dept H,Dept H2,Dept CB,Dept C/H2,Dept HC,Notes
+9/13/2026,Friday,Marcus T,Jennifer L,Stacey P,Sarah M,Marcus T,Jennifer L,Stacey P,Primary Rotation
+9/14/2026,Saturday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/15/2026,Sunday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/16/2026,Monday,Jennifer L,Stacey P,Marcus T,Sarah M,Jennifer L,Stacey P,Marcus T,New Week
+9/17/2026,Tuesday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Marcus T,Jennifer L,Mid-Week
+9/18/2026,Wednesday,Marcus T,Jennifer L,Stacey P,Sarah M,Marcus T,Tom B,Stacey P,Tom B Wed Shift
+9/19/2026,Thursday,Jennifer L,Stacey P,Marcus T,Sarah M,Jennifer L,Stacey P,Marcus T,Week Completion
+
+WEEKLY SCHEDULE - Week of September 20-26, 2026
+Date,Day,Dept B,Dept C,Dept H,Dept H2,Dept CB,Dept C/H2,Dept HC,Notes
+9/20/2026,Friday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Marcus T,Jennifer L,Primary Lead
+9/21/2026,Saturday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/22/2026,Sunday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/23/2026,Monday,Marcus T,Jennifer L,Stacey P,Sarah M,Marcus T,Jennifer L,Stacey P,New Week Rotation
+9/24/2026,Tuesday,Jennifer L,Stacey P,Marcus T,Sarah M,Jennifer L,Stacey P,Marcus T,Mid-Week
+9/25/2026,Wednesday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Tom B,Jennifer L,Tom B Wed Shift
+9/26/2026,Thursday,Marcus T,Jennifer L,Stacey P,Sarah M,Marcus T,Jennifer L,Stacey P,Week Completion
+
+WEEKLY SCHEDULE - Week of September 27 - October 3, 2026
+Date,Day,Dept B,Dept C,Dept H,Dept H2,Dept CB,Dept C/H2,Dept HC,Notes
+9/27/2026,Friday,Jennifer L,Stacey P,Marcus T,Sarah M,Jennifer L,Stacey P,Marcus T,Primary Assignments
+9/28/2026,Saturday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/29/2026,Sunday,Marcus T,Jennifer L,David R,Sarah M,Jennifer L,David R,Marcus T,Weekend Staffing
+9/30/2026,Monday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Marcus T,Jennifer L,Final Week Begins
+10/1/2026,Tuesday,Marcus T,Jennifer L,Stacey P,Sarah M,Marcus T,Jennifer L,Stacey P,Mid-Week Rotation
+10/2/2026,Wednesday,Jennifer L,Stacey P,Marcus T,Sarah M,Jennifer L,Tom B,Marcus T,Tom B Wed Shift
+10/3/2026,Thursday,Stacey P,Marcus T,Jennifer L,Sarah M,Stacey P,Marcus T,Jennifer L,Schedule Completion
+
+COMPETENCY MATRIX
+Employee,B,C,H,H2,CB,C/H2,HC,Status,Shift
+Stacey P,✓,✓,✓,✓,✓,✓,✓,Full-Time,Day
+Marcus T,✓,✗,✓,✓,✗,✓,✗,Full-Time,Day
+Jennifer L,✓,✓,✗,✗,✓,✗,✗,Full-Time,Day
+David R,✗,✓,✓,✗,✓,✓,✗,Part-Time,Day (Weekends)
+Sarah M,✓,✓,✓,✓,✓,✓,✓,Full-Time,Afternoon
+Tom B,✓,✗,✓,✓,✗,✗,✓,Part-Time,Day (Wed-Fri)
+
+NOTES & LEGEND
+- Stacey P is certified in ALL departments (B, C, H, H2, CB, C/H2, HC) and can cover any bench
+- All listed employees work DAY SHIFT (6:00 AM - 2:00 PM) except Sarah M (Afternoon)
+- David R available weekends only
+- Tom B available Wednesday-Friday only
+- Rotation ensures Stacey P's expertise is distributed across critical benches
+- Each department maintains minimum 1-2 tech coverage daily
+- ✓ = Competent, ✗ = Not Certified
+
+SCHEDULING RULES APPLIED
+1. Stacey P distributed across all bench assignments as needed for coverage
+2. Primary techs (Marcus T, Jennifer L) rotated through complementary departments
+3. Part-time staff (David R, Tom B) scheduled on specific availability windows
+4. Sarah M covers Afternoon shifts to extend daily coverage
+5. Critical departments (B, C, H, H2) prioritized for Stacey P rotation
+6. Cross-training emphasis maintained throughout schedule
